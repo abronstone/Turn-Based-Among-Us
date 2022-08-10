@@ -1,0 +1,12 @@
+Got help from Anya Vostinar and Rebecca Hicke
+
+
+
+
+Websites Used:
+
+https://docs.oracle.com/
+
+https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
+
+https://www.codegrepper.com/code-examples/python/ansi+colors

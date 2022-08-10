@@ -1,0 +1,12 @@
+Weapons
+Navigation
+Shields
+Navcam
+Admin
+Cafeteria
+Electrical
+Security
+Medbay
+Lower_engine
+Reactor
+Upper_engine
